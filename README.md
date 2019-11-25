@@ -1,0 +1,2 @@
+First, you go to github. You click the plus button and make a new repository. You out the name then create. Then, you go into github learning. You make a new file which is the name of your repo. 
+Then, you go into the file and touch README.md to make the readme. After, you git init, git commit, git remote add, and git push. You can see the readme on the github page.
